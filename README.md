@@ -1,14 +1,16 @@
-FreeBSD Source:
----------------
-This is the top level of the FreeBSD source directory.  This file
-was last revised on:
-$FreeBSD$
+# Nautilus
 
-FreeBSD is an operating system used to power modern servers,
+Source:
+---------------
+This is the top level of the Nautilus source directory.  This file
+was last revised on:
+$Nautilus$
+
+Nautilus is an operating system used to power modern servers,
 desktops, and embedded platforms. A large community has
 continually developed it for more than thirty years. Its
 advanced networking, security, and storage features have
-made FreeBSD the platform of choice for many of the
+made Nautilus the platform of choice for many of the
 busiest web sites and most pervasive embedded networking
 and storage devices.
 
@@ -18,9 +20,7 @@ sources in this tree - please see the specific source directories for
 more information.
 
 The Makefile in this directory supports a number of targets for
-building components (or all) of the FreeBSD source tree.  See build(7), config(8),
-https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/makeworld.html, and
-https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/kernelconfig.html
+building components (or all) of the Nautilus source tree.  See build(7), config(8),
 for more information, including setting make(1) variables.
 
 Source Roadmap:
@@ -78,6 +78,6 @@ usr.sbin	System administration commands.
 ```
 
 For information on synchronizing your source tree with one or more of
-the FreeBSD Project's development branches, please see:
+the Nautilus Project's development branches.
 
-  https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/current-stable.html
+
