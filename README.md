@@ -1,10 +1,10 @@
 # Nautilus
 
-Source:
----------------
-This is the top level of the Nautilus source directory.  This file
-was last revised on:
-$Nautilus$
+## Synopsis
+
+Nautilus - Nautilus Operating System
+
+## Architecture
 
 Nautilus is an operating system used to power modern servers,
 desktops, and embedded platforms. A large community has
